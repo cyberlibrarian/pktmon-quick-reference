@@ -4,6 +4,9 @@ A Quick Reference Card for PKTMON the built-in Windows 10 packet sniffer
 
 Recently Bleeping Computer explored "pktmon", the hidden packet sniffer in Windows 10.
   https://www.bleepingcomputer.com/news/microsoft/windows-10-quietly-got-a-built-in-network-sniffer-how-to-use/
+  
+Microsoft has released some documentation announcing pktmon (2020-05-22):
+  https://techcommunity.microsoft.com/t5/networking-blog/introducing-packet-monitor/ba-p/1410594
 
 While pktmon is not much different from the old "netsh trace" common (both produce ETL files, not PCAP files), Bleeping Computer pointed out that the Windows 10 May 2020 update will include PCAPNG support.
 
